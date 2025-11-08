@@ -1,2 +1,2 @@
 # Labs
-Here are my programs for laboratory work that I write during my studies (oh, and it's my first repository).
+Here are my programs for laboratory work that I write during my studies (oh, and it's my first repository). (Modifying the ReadMe file).
