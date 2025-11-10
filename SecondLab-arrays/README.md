@@ -1,16 +1,8 @@
-\# Task 1.
-
+# Task 1.
 Enter an array A of 10 elements, find the sum of negative elements that are multiples of 7, their number, and display the results on the screen.
-
-\# Task 2.
-
+# Task 2.
 Write a program using one-dimensional arrays to solve a problem involving reordering array elements. Use bubble sort as the sorting algorithm.
-
 In a one-dimensional array consisting of n real elements, calculate:
-
-\- the sum of the positive elements of the array;
-
-\- the product of the elements of the array located between the elements with the largest absolute value and the elements with the smallest absolute value.
-
-\- Sort the elements of the array in descending order.
-
+- the sum of the positive elements of the array;
+- the product of the elements of the array located between the elements with the largest absolute value and the elements with the smallest absolute value.
+- Sort the elements of the array in descending order.
